@@ -1,0 +1,10 @@
+id,account_type,first_name,last_name,current_video_rentals
+0,sx,test,test,
+1,sx,Monica,Gellar,The Godfather
+2,px,Chandler,Bing,Inception/The Prestige/Deadpool
+3,pf,Rachel,Green,The Prestige/Up/The Dark Knight
+4,sx,Ross,Gellar,
+5,sf,Phoebe,Buffay,WALL-E
+6,px,Joey,Tribbiani,The Godfather
+7,sx,Zachary,Blackburn,Up
+8,sf,Johnny,Jones,
